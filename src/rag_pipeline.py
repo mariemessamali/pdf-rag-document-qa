@@ -1,7 +1,7 @@
 accelerate
 faiss-cpu
+numpy
 PyPDF2
 sentence-transformers
 torch
 transformers
-numpy
